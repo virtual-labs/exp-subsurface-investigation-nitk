@@ -1,1 +1,1 @@
-## SUBSURFACE IMAGING USING GROUND PENETRATING RADAR (GPR) FOR UTILITY MAPPING
+## Subsurface imaging using Ground Penetrating Radar (GPR) for utility mapping
