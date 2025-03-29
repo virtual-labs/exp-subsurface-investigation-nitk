@@ -18,10 +18,10 @@
 Contributors :
 <ul style="list-style-type: none;">
 <li>Shwetha | NITK</li>
+<li>Ashika Pai  | NITK</li>
+<li>Mahima N | NITK</li>
 <li>Akshaya | NITK</li>
 <li>Anusha B Salian | NITK</li>
-<li>Ashika Pai  | NITK</li>
-<li>Mahima N  | NITK</li>
 </ul></td>
 </tr>
 </table>
