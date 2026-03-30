@@ -20,6 +20,7 @@ Contributors :
 <li>Shwetha | NITK</li>
 <li>Ashika Pai  | NITK</li>
 <li>Mahima N | NITK</li>
+<li>Dr. Vyshali | NITK</li>
 </ul></td>
 </tr>
 </table>
